@@ -1,0 +1,11 @@
+{
+    "scenario_name":"Rain_Test",
+    "scenario_type":"Open Loop",
+    "weather":"Rain",
+    "road_type":"City",
+    "simulation_time":60,
+    "vehicle_speed":45,
+    "pedestrians":20,
+    "vehicles":30,
+    "priority":"High"
+}

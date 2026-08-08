@@ -1,0 +1,13 @@
+{
+    "scenario_id": 19,
+    "scenario_name": "scenario-testing-folder",
+    "scenario_type": "Open Loop",
+    "weather": "Sunny",
+    "road_type": "City",
+    "simulation_time": 60,
+    "vehicle_speed": 50,
+    "pedestrians": 10,
+    "vehicles": 20,
+    "priority": "Medium",
+    "created_by": "rachana"
+}
